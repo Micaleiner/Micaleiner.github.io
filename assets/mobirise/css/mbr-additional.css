@@ -3464,7 +3464,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rSVm2QUTSi .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.1rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-rSVm2QUTSi .collapsed button.navbar-toggler {
